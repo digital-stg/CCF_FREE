@@ -35,7 +35,7 @@ Purchase funnel and order review : custom data is displayed in all steps of the 
 For each field, you can choose from these 14 option types.
 
 * **Free version**: 2 cumulative fields with 14 types of options available.
-* **Pro version**: n cumulative fields with 14 types of options available.
+* **Pro version**: n cumulative fields with 14 types of options available and conditionals.
 
 ### Jquery UI elements
 
@@ -63,10 +63,6 @@ For each field, you can choose from these 14 option types.
 For each field, these are common settings. Each option type has then its own additional settings.
 * [View all settings list](https://digital-stg.com/ccf-documentation/ccf-settings)
 
-## Demo data
-
-Free version : you can import 14 demo fields.
-Pro version : you can import 14 demo fields and 7 demo products.
 
 ## Languages
 
